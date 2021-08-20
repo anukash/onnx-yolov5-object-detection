@@ -1,6 +1,6 @@
 # onnx-yolov5-object-detection
 
-Here i have modified the object detection file to run only on ONNX weights kindly refer to the main yolo 5 git given below for other weight file usage.
+Here i have modified the object detection file to run only on ONNX weights kindly refer to the main yolo v5 git given below for other weight file usage.
 
 yolo v5 git : https://github.com/ultralytics/yolov5.git
 
